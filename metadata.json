@@ -1,0 +1,6 @@
+{
+  "name": "Best VID",
+  "description": "Precision engineered video utility for high-performance downloading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
